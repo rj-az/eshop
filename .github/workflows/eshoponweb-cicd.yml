@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-gomasterit
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: SUBSCRIPTION-ID
+  SUBSCRIPTION-ID: 601c3427-2258-4680-ae13-ab1c38bf8768
   WEBAPP-NAME: az400-webapp-gomasterit
 
 
